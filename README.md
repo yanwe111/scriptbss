@@ -67,7 +67,7 @@ local red = Color3.fromRGB(255,0,0)
 local blue = Color3.fromRGB(0, 206, 206)
 local baodz = "Dandelion Field"
 local keycheck = "Fasd"
-if key == "YuG6o28" then
+if key == "ezgasd2me" then
 	keycheck = true
 else
 	keycheck = false
